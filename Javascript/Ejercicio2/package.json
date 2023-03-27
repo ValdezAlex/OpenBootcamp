@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio2",
+  "version": "1.0.0",
+  "description": "Ejercicio 2 Js OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ejercicio2"
+  ],
+  "author": "Alex Valdez",
+  "license": "ISC"
+}
